@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="showPair"
+        android:id="@+id/show"
+        android:icon="@drawable/ic_cycle"
+        app:showAsAction="always"/>
+    <item
+        android:title="bluetooth"
+        android:id="@+id/bluetooth"
+        android:icon="@drawable/ic_blue"
+        app:showAsAction="always"/>
+</menu>
